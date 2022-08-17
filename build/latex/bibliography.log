@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.5)  17 AUG 2022 06:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.5)  17 AUG 2022 06:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -878,43 +878,49 @@ Underfull \hbox (badness 5954) in paragraph at lines 646--648
 ic Model. <[][]$https : / / vic .
  []
 
-[10] [11] (./bibliography.ind [12
+[10] [11] [12
 
 
-] [13
+]
+Underfull \hbox (badness 10000) in paragraph at lines 727--729
+[][]$\T1/qtm/m/n/12 http : / / www . jeiletters . org / index . php ? journal =
+ mys & page = article & op = view & path %
+ []
+
+[13] [14] (./bibliography.ind [15] [16
 
 
-] [14] [15
+] [17] [18
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 708.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 708.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 840.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 840.
  (./bibliography.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 708.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 708.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 840.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 840.
 Package rerunfilecheck Info: File `bibliography.out' has not changed.
 (rerunfilecheck)             Checksum: CCACCDBA31B08ADEF26B289B6E08BBE2;504.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 708.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 840.
  ) 
 Here is how much of TeX's memory you used:
- 15271 strings out of 483183
- 229302 string characters out of 5966293
- 535462 words of memory out of 5000000
- 29725 multiletter control sequences out of 15000+600000
- 585520 words of font info for 72 fonts, out of 8000000 for 9000
+ 15365 strings out of 483183
+ 231167 string characters out of 5966293
+ 538606 words of memory out of 5000000
+ 29771 multiletter control sequences out of 15000+600000
+ 585932 words of font info for 73 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 38i,12n,51p,735b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/e
-nc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.
+ 38i,12n,51p,735b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texmf/fonts/
+enc/dvips/tex-gyre/q-ec.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.
 pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvbi.pfb></usr/share/texmf/f
 onts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf/fonts/type1/public/tex-gy
 re/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/
 texmf/fonts/type1/public/tex-gyre/qtmri.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/txfonts/t1xtt.pfb>
-Output written on bibliography.pdf (18 pages, 224560 bytes).
+Output written on bibliography.pdf (21 pages, 234662 bytes).
 PDF statistics:
- 526 PDF objects out of 1000 (max. 8388607)
- 487 compressed objects within 5 object streams
- 166 named destinations out of 1000 (max. 500000)
+ 606 PDF objects out of 1000 (max. 8388607)
+ 563 compressed objects within 6 object streams
+ 213 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
