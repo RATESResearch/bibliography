@@ -141,3 +141,15 @@
 2022-08-17 05:51:28,409 [INFO] Downloading src/_static/RATESLogo.png
 2022-08-17 05:51:28,628 [INFO] Downloading src/_static/RGVFloodLogo.png
 2022-08-17 05:51:29,100 [INFO] Downloading src/_static/layout.html
+2022-08-17 06:17:49,138 [INFO] Building Documents
+2022-08-17 06:17:49,138 [INFO] Initializing Spyce
+2022-08-17 06:17:49,145 [INFO] Downloading src/glossary.rst
+2022-08-17 06:17:49,552 [INFO] Downloading src/_static/bibliography.rst
+2022-08-17 06:17:49,926 [INFO] Downloading src/_static/references.bib
+2022-08-17 06:17:50,720 [INFO] Downloading .readthedocs.yaml
+2022-08-17 06:17:51,218 [INFO] Downloading src/conf.py
+2022-08-17 06:17:51,548 [INFO] Downloading src/_static/UTRGVLogo.png
+2022-08-17 06:17:51,971 [INFO] Downloading src/_static/bluetunnel.css
+2022-08-17 06:17:52,308 [INFO] Downloading src/_static/RATESLogo.png
+2022-08-17 06:17:52,675 [INFO] Downloading src/_static/RGVFloodLogo.png
+2022-08-17 06:17:53,025 [INFO] Downloading src/_static/layout.html
