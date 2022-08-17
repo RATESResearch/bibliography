@@ -1,0 +1,27 @@
+[build-system]
+requires = [ "poetry-core>=1.0.0",]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "bibliography"
+version = "0.1.0"
+description = "Bibliography"
+authors = [ "Andrew Ernest <anernest@ratesresearch.org>",]
+license = "MIT"
+
+[tool.spyce]
+copyright_year = "2022"
+organization = "RATES"
+sponsor = "RATES"
+document_id = "Bibliography"
+latex_logo = "_static/RATESLogo.png"
+html_logo = "_static/RATESLogo.png"
+techreviewer = "Andrew N.S. Ernest, Ph.D., P.E., BCEE, D.WRE"
+techtitle = "Professor of Civil Engineering"
+finalreviewer = "Andrew N.S. Ernest, Ph.D., P.E., BCEE, D.WRE"
+finaltitle = "Principle Investigator"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]

@@ -1,0 +1,7 @@
+:orphan:
+
+Bibliography 
+============
+
+.. bibliography::
+
