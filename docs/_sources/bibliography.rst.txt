@@ -4,4 +4,5 @@ Bibliography
 ============
 
 .. bibliography::
+   :all:
 
