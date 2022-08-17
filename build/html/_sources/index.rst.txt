@@ -8,7 +8,7 @@ Bibliography
 
       Bibliography <bibliography.rst>
 
-:cite:t:`ganapathy_water_2002`
+:cite:t:`ganapathy2002`
 
 .. :cite:t:`fuller_toxicological_1997`
 
