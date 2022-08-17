@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.5)  17 AUG 2022 09:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.5)  17 AUG 2022 09:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -850,7 +850,7 @@ Chapter 1.
 ]
 Chapter 2.
 LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 1
-25.
+22.
 (/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
 File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
 ) [2
@@ -867,60 +867,60 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [4] [5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 398--400
+Underfull \hbox (badness 10000) in paragraph at lines 395--397
 \T1/qtm/m/n/12 <[][]$https : / / www . mikepoweredbydhi . com / download / mike
 -[]2019 / mike-[]urban-[]plus ? ref =
  []
 
 [7] [8] [9]
-Underfull \hbox (badness 5954) in paragraph at lines 646--648
+Underfull \hbox (badness 5954) in paragraph at lines 643--645
 \T1/qtm/m/n/12 Vari-able In-fil-tra-tion Ca-pac-ity (VIC) Macroscale Hy-dro-log
 ic Model. <[][]$https : / / vic .
  []
 
-[10] [11] [12
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 727--729
+[10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 679--681
 [][]$\T1/qtm/m/n/12 http : / / www . jeiletters . org / index . php ? journal =
  mys & page = article & op = view & path %
  []
 
-[13] [14] (./bibliography.ind [15] [16
+(./bibliography.ind [12
 
 
-] [17] [18
+] [13
+
+
+] [14] [15
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 840.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 840.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 690.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 690.
  (./bibliography.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 840.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 840.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 690.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 690.
 Package rerunfilecheck Info: File `bibliography.out' has not changed.
 (rerunfilecheck)             Checksum: CCACCDBA31B08ADEF26B289B6E08BBE2;504.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 840.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 690.
  ) 
 Here is how much of TeX's memory you used:
- 15365 strings out of 483183
- 231167 string characters out of 5966293
- 538606 words of memory out of 5000000
- 29771 multiletter control sequences out of 15000+600000
- 585932 words of font info for 73 fonts, out of 8000000 for 9000
+ 15261 strings out of 483183
+ 229107 string characters out of 5966293
+ 535256 words of memory out of 5000000
+ 29720 multiletter control sequences out of 15000+600000
+ 585520 words of font info for 72 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 38i,12n,51p,735b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texmf/fonts/
-enc/dvips/tex-gyre/q-ec.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.
+ 38i,12n,51p,735b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/e
+nc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.
 pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvbi.pfb></usr/share/texmf/f
 onts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf/fonts/type1/public/tex-gy
 re/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/
 texmf/fonts/type1/public/tex-gyre/qtmri.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/txfonts/t1xtt.pfb>
-Output written on bibliography.pdf (21 pages, 234662 bytes).
+Output written on bibliography.pdf (18 pages, 221231 bytes).
 PDF statistics:
- 606 PDF objects out of 1000 (max. 8388607)
- 563 compressed objects within 6 object streams
- 213 named destinations out of 1000 (max. 500000)
+ 522 PDF objects out of 1000 (max. 8388607)
+ 483 compressed objects within 5 object streams
+ 161 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

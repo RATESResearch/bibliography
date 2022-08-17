@@ -3,4 +3,4 @@
 \contentsline {chapter}{\numberline {2}Indices and tables}{2}{chapter.2}%
 \contentsline {chapter}{\numberline {A}Glossary}{3}{appendix.A}%
 \contentsline {chapter}{Bibliography}{12}{appendix*.137}%
-\contentsline {chapter}{Index}{16}{section*.138}%
+\contentsline {chapter}{Index}{13}{section*.138}%

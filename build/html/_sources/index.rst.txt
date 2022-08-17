@@ -10,7 +10,7 @@ Bibliography
 
 :cite:t:`ganapathy_water_2002`
 
-:cite:t:`fuller_toxicological_1997`
+.. :cite:t:`fuller_toxicological_1997`
 
 
 Indices and tables

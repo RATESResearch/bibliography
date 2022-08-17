@@ -196,10 +196,10 @@
 	year = {2008},
 }
 
-@book{glsnoaa_earth_2014,
+@misc{noaa_earth_2014,
 	title = {Earth {System} {Research} {Laboratory}},
 	url = {http://www.esrl.noaa.gov/},
-	author = {{{\textbackslash}glsNOAA}},
+	author = {{NOAA}},
 	year = {2014},
 	note = {Published: Web Article},
 }
@@ -251,10 +251,10 @@
 	annote = {Published: Web Article},
 }
 
-@book{glsesrl_high-resolution_2014,
+@misc{esrl_high-resolution_2014,
 	title = {The {High}-{Resolution} {Rapid} {Refresh} ({HRRR})},
 	url = {http://ruc.noaa.gov/hrrr/},
-	author = {{{\textbackslash}glsESRL}},
+	author = {{ESRL}},
 	year = {2014},
 	note = {Published: Web Article},
 }
@@ -267,10 +267,10 @@
 	year = {2008},
 }
 
-@book{glscuahsi_hydroshare_2014,
+@misc{cuahsi_hydroshare_2014,
 	title = {{HydroShare}},
 	url = {http://hydroshare.cuahsi.org/},
-	author = {{{\textbackslash}glsCUAHSI}},
+	author = {{CUAHSI}},
 	year = {2014},
 	note = {Published: Web Article},
 }
@@ -293,10 +293,10 @@
 	pages = {457--464},
 }
 
-@book{glsnssl_multi-radar/multi-sensor_2015,
+@misc{nssl_multi-radar/multi-sensor_2015,
 	title = {Multi-{Radar}/{Multi}-{Sensor} {System}},
 	url = {http://nssl.noaa.gov/projects/mrms/},
-	author = {{{\textbackslash}glsNSSL}},
+	author = {{NSSL}},
 	year = {2015},
 	note = {Published: Web Article},
 }
@@ -363,10 +363,10 @@
 	annote = {Published: Web Article},
 }
 
-@book{glsnoaa_national_2015,
+@misc{noaa_national_2015,
 	title = {National {Severe} {Storms} {Laboratory}},
 	url = {http://nssl.noaa.gov/about/},
-	author = {{{\textbackslash}glsNOAA}},
+	author = {{NOAA}},
 	year = {2015},
 	note = {Published: Web Article},
 }
@@ -838,7 +838,7 @@
 	isbn = {978-1-84755-861-9},
 	url = {https://books.google.com/books?id=NLyq3peN9DQC},
 	publisher = {Royal Society of Chemistry},
-	author = {Quevauviller, P. and Britain), Royal Society of Chemistry (Great},
+	author = {Quevauviller, P.},
 	year = {2010},
 	lccn = {2010292992},
 }

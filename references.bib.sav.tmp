@@ -117,7 +117,7 @@
 	pages = {3--12},
 }
 
-@book{earthsystemmodeling.org_earth_2014,
+@misc{earthsystemmodeling.org_earth_2014,
 	title = {Earth {Systems} {Modeling} {Framework}},
 	url = {http://earthsystemmodeling.org},
 	author = {{EarthSystemModeling.org}},
@@ -145,7 +145,7 @@
 	pages = {91--110},
 }
 
-@book{csdms_community_2014,
+@misc{csdms_community_2014,
 	title = {Community {Surface} {Dynamics} {Modeling} {System}},
 	url = {http://csdms.colorado.edu},
 	author = {{CSDMS}},
@@ -195,10 +195,10 @@
 	year = {2008},
 }
 
-@book{glsnoaa_earth_2014,
+@misc{noaa_earth_2014,
 	title = {Earth {System} {Research} {Laboratory}},
 	url = {http://www.esrl.noaa.gov/},
-	author = {{{\textbackslash}glsNOAA}},
+	author = {{NOAA}},
 	year = {2014},
 	note = {Published: Web Article},
 }
@@ -241,7 +241,7 @@
 	pages = {6e132},
 }
 
-@book{datacarpentry.org_data_2014,
+@misc{datacarpentry.org_data_2014,
 	title = {Data {Carpentry}},
 	url = {http://datacarpentry.org/},
 	author = {{DataCarpentry.org}},
@@ -250,10 +250,10 @@
 	annote = {Published: Web Article},
 }
 
-@book{glsesrl_high-resolution_2014,
+@misc{esrl_high-resolution_2014,
 	title = {The {High}-{Resolution} {Rapid} {Refresh} ({HRRR})},
 	url = {http://ruc.noaa.gov/hrrr/},
-	author = {{{\textbackslash}glsESRL}},
+	author = {{ESRL}},
 	year = {2014},
 	note = {Published: Web Article},
 }
@@ -266,10 +266,10 @@
 	year = {2008},
 }
 
-@book{glscuahsi_hydroshare_2014,
+@misc{cuahsi_hydroshare_2014,
 	title = {{HydroShare}},
 	url = {http://hydroshare.cuahsi.org/},
-	author = {{{\textbackslash}glsCUAHSI}},
+	author = {{CUAHSI}},
 	year = {2014},
 	note = {Published: Web Article},
 }
@@ -292,10 +292,10 @@
 	pages = {457--464},
 }
 
-@book{glsnssl_multi-radar/multi-sensor_2015,
+@misc{nssl_multi-radar/multi-sensor_2015,
 	title = {Multi-{Radar}/{Multi}-{Sensor} {System}},
 	url = {http://nssl.noaa.gov/projects/mrms/},
-	author = {{{\textbackslash}glsNSSL}},
+	author = {{NSSL}},
 	year = {2015},
 	note = {Published: Web Article},
 }
@@ -335,7 +335,7 @@
 	annote = {Published: Web Article},
 }
 
-@book{cuahsi.org_consortium_2015,
+@misc{cuahsi.org_consortium_2015,
 	title = {Consortium of {Universities} for the {Advancement} of {Hydrologic} {Science}, {Inc}.},
 	url = {http://cuahsi.org},
 	author = {{CUAHSI.org}},
@@ -362,15 +362,15 @@
 	annote = {Published: Web Article},
 }
 
-@book{glsnoaa_national_2015,
+@misc{noaa_national_2015,
 	title = {National {Severe} {Storms} {Laboratory}},
 	url = {http://nssl.noaa.gov/about/},
-	author = {{{\textbackslash}glsNOAA}},
+	author = {{NOAA}},
 	year = {2015},
 	note = {Published: Web Article},
 }
 
-@book{horizon-systems.com_national_2015,
+@misc{horizon-systems.com_national_2015,
 	title = {National {Hydrography} {Dataset} – {Plus}, {Version} 2},
 	url = {http://www.horizon-systems.com/NHDPlus/NHDPlusV2_home.php},
 	author = {{Horizon-Systems.com}},
@@ -379,7 +379,7 @@
 	annote = {Published: Web Article},
 }
 
-@book{horizon-systems.com_national_2015-1,
+@misc{horizon-systems.com_national_2015-1,
 	title = {National {Hydrography} {Dataset} – {Plus}},
 	url = {http://www.horizon-systems.com/NHDPlus/},
 	author = {{Horizon-Systems.com}},
@@ -414,7 +414,7 @@
 	pages = {357--386},
 }
 
-@book{alabama.gov_alabama_2015,
+@misc{alabama.gov_alabama_2015,
 	title = {Alabama {Water} {Agencies} {Working} {Group}},
 	url = {http://adeca.alabama.gov/Divisions/owr/awawg/pages/default.aspx},
 	author = {{Alabama.gov}},
@@ -646,8 +646,9 @@
 	year = {2008},
 }
 
-@incollection{youn_notitle_2014,
+@incollection{youn_leveraging_2014,
 	address = {Atlanta, GA, USA},
+	title = {Leveraging {XSEDE} {HPC} resources to address computational challenges with high-resolution topography data},
 	url = {http://dx.doi.org/10.1145/2616498.2616564},
 	publisher = {ACM},
 	author = {Youn, Choonhan and Nandigam, Viswanath and Phan, Minh and Tarboton, David and Wilkins-Diehr, Nancy and Baru, Chaitan and Crosby, Christopher and Padmanabhan, Anand and Wang, Shaowen},
@@ -734,8 +735,9 @@
 	pages = {Paper 311},
 }
 
-@incollection{habib_notitle_2015,
+@incollection{habib_stimulating_2015,
 	address = {Seattle, Washington},
+	title = {Stimulating {Active} {Learning} in {Hydrology} {Using} {Research}-{Driven}, {Web}-based {Learning} {Modules}},
 	url = {http://dx.doi.org/10.18260/p.24737},
 	abstract = {Stimulating Active Learning in Hydrology Using Research-Driven, Web- based Learning ModulesThe traditional approach to undergraduate hydrology and water resource education is textbookbased and relies on idealized examples of specific engineering applications and unit processes,rather than examining the contextual relations in the processes and the dynamics connectingclimate and ecosystems. Recent research advances in hydrology have resulted in newobservational settings, instrumentation, modeling techniques and hydro-informatics and datasharing technologies. This study seeks to address the needed paradigm shift in undergraduateeducation of engineering hydrology and water resources education to reflect parallel advances inresearch and technology.This paper presents a set of learning modules that are case-based, data and simulation driven anddelivered via a web user interface. The modules are based on real-world case studies from threeregional scale ecosystems, Coastal Louisiana, Florida Everglades, and Utah Great Salt LakeBasin. These three hydro-systems provide concepts and scenarios provide unique learningopportunities on topics such as regional-scale budget analysis, hydrologic effects of human andnatural changes, climate-hydrology teleconnections and water resource management scenarios(see next page for graphical illustration). The overall theme of the coastal Louisiana modules isin coastal restoration and the impacts of future restoration/protection engineering projects on theecosystem and the ecological and economical services it provides. The Utah Great Salt LakeBasin modules include concepts related to snowmelt driven ecosystems, terminal lakewatersheds, and flood prevention. The Florida Everglades modules cover processes that connectthe hydrology of the ecosystem to large-scale climatic teleconnections and implications for waterand ecological resource management. Each learning module is a self-contained case-studyfocusing on a real-world problem. Each module begins with an introduction to theengineering/environmental problem at hand, and then presents an investigation of the basicfeatures of the hydrologic setting and its main characteristics. The module then takes the studentsthrough an investigative process of the different solutions proposed for the problem and asks theto examine different design alternatives using data analysis, as well as model simulations. Insome cases, the students setup and run their own computer models, and in other cases they useresults from a pre-run set of simulations. To promote active learning, each module has a set ofstudent-focused activities with specific tasks and deliverables. The use of observational andexperimental data augment the use of simulation data and lead to an appreciation of the naturalvariability of hydrologic processes and the difficulties associated with using models to representsuch complex systems. The place-based nature of the modules and the hands-on active learningactivities provide a real-world context, stimulate student learning, and provide a resource for thedevelopment of practical skills as well as knowledge fundamental to engineering practice.Module effectiveness is assessed through an improvement-focused evaluation model using amixed-method research approach guiding data collection. Both qualitative and quantitative dataare collected through student learning data, product analysis, stakeholder surveys, and staffinterviews. The paper presents evaluation of program fidelity, effectiveness, student learning,and potential for adaptation. Coastal Louisiana ecosystem used to develop learning modules with focus on restoration projects and their hydrologic/ecologic impacts Learning modules developed for the Florida Everglades with focus on climatic The Great Salt Lake Basin in Utah is used to teleconnections and ecosystem hydrologydevelop hydrology modules Surf ce Water Input- Runoff relationships},
 	publisher = {ASEE Conferences},
@@ -835,7 +837,7 @@
 	isbn = {978-1-84755-861-9},
 	url = {https://books.google.com/books?id=NLyq3peN9DQC},
 	publisher = {Royal Society of Chemistry},
-	author = {Quevauviller, P. and Britain), Royal Society of Chemistry (Great},
+	author = {Quevauviller, P.},
 	year = {2010},
 	lccn = {2010292992},
 }
@@ -4527,17 +4529,79 @@
 	annote = {Published: Web Article},
 }
 
-@incollection{youn_notitle_2014-1,
-	address = {Atlanta, GA, USA},
-	url = {http://dx.doi.org/10.1145/2616498.2616564},
-	publisher = {ACM},
-	author = {Youn, Choonhan and Nandigam, Viswanath and Phan, Minh and Tarboton, David and Wilkins-Diehr, Nancy and Baru, Chaitan and Crosby, Christopher and Padmanabhan, Anand and Wang, Shaowen},
-	year = {2014},
-	doi = {10.1145/2616498.2616564},
-	pages = {Extended Abstract},
+@misc{txsos_colonias_nodate-1,
+	title = {Colonias {Legislative} {Reports}},
+	url = {https://www.sos.texas.gov/border/reports/reports.shtml},
+	urldate = {2018-12-06},
+	author = {{TXSoS}},
 }
 
-@incollection{habib_notitle_2015-1,
-	address = {Seattle, Washington},
-	url = {http://dx.doi.org/10.18260/p.24737},
-	abstract = {Stimulating Active Learning in Hydrology Using Research-Driven, Web- based Learning ModulesThe traditional approach to undergraduate hydrology and water resource education is textbookbased and relies on idealized examples of specific engineering applications and unit processes,rather than examining the contextual relations in the processes and the dynamics connectingclimate and ecosystems. Recent research advances in hydrology have resulted in newobservational settings, instrumentation, modeling techniques and hydro-informatics and datasharing technologies. This study seeks to address the needed paradigm shift in undergraduateeducation of engineering hydrology and water resources education to reflect parallel advances inresearch and technology.This paper presents a set of learning modules that are case-based, data and simulation driven anddelivered via a web user interface. The modules are based on real-world case studies from threeregional scale ecosystems, Coastal Louisiana, Florida Everglades, and Utah Great Salt LakeBasin. These three hydro-systems provide concepts and scenarios provide unique learningopportunities on topics such as regional-scale budget analysis, hydrologic effects of human andnatural changes, climate-hydrology teleconnections and water resource management scenarios(see next page for graphical illustration). The overall theme of the coastal Louisiana modules isin coastal restoration and the impacts of future restoration/protection engineering projects on theecosystem and the ecological and economical services it provides. The Utah Great Salt LakeBasin modules include concepts related to snowmelt driven ecosystems, terminal lakewatersheds, and flood prevention. The Florida Everglades modules cover processes that connectthe hydrology of the ecosystem to large-scale climatic teleconnections and implications for waterand ecological resource management. Each learning module is a self-contained case-studyfocusing on a real-world problem. Each module begins with an introduction to theengineering/environmental problem at hand, and then presents an investigation of the basicfeatures of the hydrologic setting and its main characteristics. The module then takes the studentsthrough an investigative process of the different solutions proposed for the problem and asks theto examine different design alternatives using data analysis, as well as model simulations. Insome cases, the students setup and run their own computer models, and in other cases they useresults from a pre-run set of simulations. To promote active learning, each module has a set ofstudent-focused activities with specific tasks and deliverables. The use of observational andexperimental data augment the us
+@misc{sciencing_how_nodate-1,
+	title = {How to {Filter} {Water} {With} {Clay} {Pots} {\textbackslash}textbar {Sciencing}},
+	url = {https://sciencing.com/filter-water-clay-pots-6975650.html},
+	urldate = {2018-11-29},
+	author = {{Sciencing}},
+}
+
+@misc{ngss_next_nodate-1,
+	title = {Next {Generation} {Science} {Standards}},
+	url = {https://www.nextgenscience.org/},
+	urldate = {2018-11-29},
+	author = {{NGSS}},
+}
+
+@misc{noauthor_utrgv_nodate-2,
+	title = {{UTRGV} {\textbackslash}textbar {Top} 20},
+	url = {https://www.utrgv.edu/en-us/about-utrgv/news/press-releases/2017/august-21-utrgv-third-in-ut-system-top-20-in-minorityserving-institutions-nationally-in-federal-funding-for-science-and-engineering/},
+	urldate = {2018-11-29},
+}
+
+@misc{noauthor_nsf97153_nodate-1,
+	title = {nsf97153 {User}-{Friendly} {Handbook} for {Mixed} {Method} {Evaluations} {\textbackslash}textbar {NSF} - {National} {Science} {Foundation}},
+	url = {https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf97153},
+	urldate = {2018-12-03},
+}
+
+@misc{noauthor_hydrologics_nodate-1,
+	title = {hydrologics {\textbackslash}textbar {OASIS} {Software}},
+	url = {http://www.hydrologics.net/oasis-software},
+	language = {en},
+	urldate = {2018-12-02},
+	note = {Publication Title: HydroLogics: Advancing the Management of Water Resources},
+}
+
+@misc{noauthor_utrgv_nodate-3,
+	title = {{UTRGV} {\textbackslash}textbar {Strategic} {Plan}},
+	url = {https://www.utrgv.edu/strategic-plan/},
+	urldate = {2018-11-29},
+}
+
+@misc{usgcrp_fourth_2018-1,
+	title = {Fourth {National} {Climate} {Assessment}},
+	url = {https://nca2018.globalchange.gov},
+	abstract = {This report is an authoritative assessment of the science of climate change, with a focus on the United States. It represents the second of two volumes of the Fourth National Climate Assessment, mandated by the Global Change Research Act of 1990.},
+	language = {en},
+	urldate = {2018-11-29},
+	author = {{USGCRP}},
+	year = {2018},
+}
+
+@misc{noauthor_ingress_nodate-1,
+	title = {Ingress with {NGINX} controller on {Google} {Kubernetes} {Engine} {\textbackslash}textbar {Google} {Cloud} {Platform} {Community}},
+	url = {https://cloud.google.com/community/tutorials/nginx-ingress-gke},
+	language = {en},
+	urldate = {2022-05-10},
+	note = {Publication Title: Google Cloud},
+	file = {Snapshot:C\:\\Users\\anern\\Zotero\\storage\\7HNNQST3\\nginx-ingress-gke.html:text/html},
+}
+
+@misc{noauthor_zotero_nodate,
+	title = {Zotero {\textbackslash}textbar {Your} personal research assistant},
+	url = {https://www.zotero.org/},
+	urldate = {2021-06-07},
+	file = {Zotero | Your personal research assistant:C\:\\Users\\anern\\Zotero\\storage\\V2MDZWR2\\www.zotero.org.html:text/html;Zotero | Your personal research assistant:C\:\\Users\\anern\\Zotero\\storage\\47DJ4LLG\\www.zotero.org.html:text/html},
+}
+
+@inproceedings{wade_waterwastewater_2009,
+	address = {Lexington, Kentucky},
+	title = {Water/{Wastewater} {Technician} {Training
